@@ -1,3 +1,7 @@
+## [Live Demo](https://starlit-begonia-e1bdc3.netlify.app/)
+
+I created this React App to first understand deploying the app on Netlify. The app also uses an open flask app calling an endpoint, hosted on Heroku.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
