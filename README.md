@@ -1,6 +1,6 @@
 ## [Live Demo](https://starlit-begonia-e1bdc3.netlify.app/)
 
-Developed a CRUD application and is a revision to the Todo List Application I built 2 years ago using Flask. This application is a simple To-do list using React and Express. I created this application to keep up-to-date with my React skills, however, this time I deployed both my express app and react app live, so anybody could use my app without having to clone my repository to their local drive. Please feel free to leave any comments. You can choose to be annonymous or write your name with a hypen next to your comments, by going to the [Live Demo](https://starlit-begonia-e1bdc3.netlify.app/) here.
+Developed a CRUD application and is a revision to the Todo List [Application](https://github.com/farhan0167/todo-list) I built 2 years ago using Flask. This application is a simple To-do list using React and Express. I created this application to keep up-to-date with my React skills, however, this time I deployed both my express app and react app live, so anybody could use my app without having to clone my repository to their local drive. Please feel free to leave any comments. You can choose to be annonymous or write your name with a hypen next to your comments, by going to the [Live Demo](https://starlit-begonia-e1bdc3.netlify.app/) here.
 
 # Steps to Re-create the app on localhost:
 
