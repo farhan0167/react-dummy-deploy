@@ -1,13 +1,14 @@
 import './App.css';
 import React from 'react'
-import Hello from './components/hello';
-import Greet from './components/Greet';
+import ToDoList from './components/ToDoList';
 
 function App() {
   return (
     <React.Fragment>
-      <Hello name="Ahmad Farhan"/>
-      <Greet/>
+      <div className='main-container'>
+        <h1>Action Items</h1>
+        <ToDoList/>
+      </div>
     </React.Fragment>
   );
 }
