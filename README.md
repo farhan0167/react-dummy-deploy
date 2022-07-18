@@ -1,8 +1,8 @@
 ## [Live Demo](https://starlit-begonia-e1bdc3.netlify.app/)
 
-I created this React App to first understand deploying the app on Netlify. The app also uses an open flask app calling an endpoint, hosted on Heroku.
+This app is a revision to the Todo List Application I built 2 years ago using Flask. This application is a simple To-do list using React and Express. I created this application to keep up-to-date with my React skills, however, this time I deployed both my express app and react app live, so anybody could use my app without having to clone my repository to their local drive. Please feel free to leave any comments. You can choose to be annonymous or write your name with a hypen next to your comments, by going to the [Live Demo](https://starlit-begonia-e1bdc3.netlify.app/) here.
 
-# Getting Started with Create React App
+# Steps to Re-create the app on localhost:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
